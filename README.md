@@ -16,6 +16,7 @@ State Management: React Hooks (useState, useHistory)
 Routing: React Router DOM
 
 📂 Folder Structure
+
 fruit-ai-frontend/
 │
 ├── public/
