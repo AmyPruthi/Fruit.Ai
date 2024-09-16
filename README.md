@@ -38,30 +38,21 @@ fruit-ai-frontend/
 
 ⚙️ Installation & Setup
 Clone the repository:
-
-bash
-Copy code
 git clone https://github.com/yourusername/fruit-ai-frontend.git
+
 Navigate to the project directory:
-
-bash
-Copy code
 cd fruit-ai-frontend
+
+
 Install the dependencies:
-
-bash
-Copy code
 npm install
+
 Run the development server:
-
-bash
-Copy code
 npm start
-Build the project for production:
 
-bash
-Copy code
+Build the project for production:
 npm run build
+
 🌐 Pages Overview
 Login Page:
 
@@ -96,9 +87,6 @@ Delete: Remove FAQs.
 To deploy the project publicly, follow the steps:
 
 Build the production files using:
-
-bash
-Copy code
 npm run build
 Deploy to a platform like:
 
