@@ -1,4 +1,5 @@
 Fruit.ai
+
 Fruit.ai is a health management tool designed to help users manage their health with the help of a chatbot, translator, and frequently asked questions (FAQs) feature. This product is mobile-friendly and includes CRUD functionality for the FAQ section. The following document outlines how to set up and use the frontend part of the Fruit.ai project.
 
 🚀 Features
